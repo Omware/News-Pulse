@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # Exclude config.dart to prevent it from being tracked
-/lib/config.dart
+/lib/utils/config.dart
